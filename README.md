@@ -43,17 +43,25 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay300899&theme=github_dark)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjay300899&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay300899&theme=radical)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay300899&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjay300899&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay300899&theme=radical" />
+</p>
 ---
 
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-saravanan)
-- ✉️ *(your email)*
-- 🌐 *(your portfolio site, if any)*
+- ✉️ *ssanjaynkl1999@gmail.com*
+- 🌐 *https://s-sanjay-30.netlify.app/*
 
 ---
 
